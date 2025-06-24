@@ -29,8 +29,11 @@ air_quality	Output label (Good, Moderate, Poor)
 **#Clone the repository:**
 git clone https://github.com/yourusername/air-quality-predictor.git
 cd air-quality-predictor
-Install dependencies:
-pip install -r requirements.txt
-python app.py
-http://127.0.0.1:5000/
 
+Install dependencies:
+
+pip install -r requirements.txt
+
+python app.py
+
+http://127.0.0.1:5000/
